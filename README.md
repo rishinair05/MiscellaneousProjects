@@ -1,2 +1,2 @@
 # MiscellaneousProjects
-Random projects to learn OOP in Java and C++.
+A collection of small projects to learn OOP in Java and C++.
